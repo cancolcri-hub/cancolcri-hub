@@ -20,11 +20,24 @@ Trabajo con PYMEs y profesionales que quieren escalar sin contratar más.
 
 ---
 
+### 🚀 Proyectos destacados
+
+**[whatsapp-ai-assistant](https://github.com/cancolcri-hub/whatsapp-ai-assistant)** — Asistente de WhatsApp en producción sobre Meta Cloud API, con respuestas de Claude, memoria en PostgreSQL y captura automática de leads. Verificación HMAC, deduplicación, opt-out GDPR y reintentos con backoff.
+`Node.js` · `Express` · `Claude` · `PostgreSQL` · `Docker`
+
+**[n8n-automation-workflows](https://github.com/cancolcri-hub/n8n-automation-workflows)** — 5 flujos reales de automatización: DM automático por keyword en Instagram, agendado de citas con IA (email → Calendar → WhatsApp), captación de leads con doble opt-in y gestión de bajas GDPR.
+`n8n` · `Claude` · `Supabase` · `Brevo` · `Instagram Graph API`
+
+**[email-os](https://github.com/cancolcri-hub/email-os)** — Framework reutilizable para desplegar email marketing completo por cliente clonando un repo. Compliance GDPR como parte de la arquitectura, componentes React Email y flujos n8n.
+`n8n` · `Supabase` · `Brevo` · `React Email`
+
+---
+
 ### 📌 En qué estoy trabajando ahora
 
-- 🤖 Sistemas de automatización con IA para clínicas y asesorías
-- 🌐 Portfolio en [cristinacollado.lovable.app](https://cristinacollado.lovable.app)
-- 📊 Verticales de automatización para PYMEs españolas
+- 🤖 Asistentes de WhatsApp con IA y automatización de procesos para PYMEs
+- 📧 Sistemas de email marketing y captación de leads (n8n + Supabase)
+- 🌐 Portfolio personal en [cristinacollado.lovable.app](https://cristinacollado.lovable.app)
 
 ---
 
